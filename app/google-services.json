@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "705532419622",
+    "project_id": "firebase-walli"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705532419622:android:97b00bd0eb28c918",
+        "android_client_info": {
+          "package_name": "com.ara.walli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_0a5rrTNFfHkPj1ilksZPkF5Si3bXzsM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

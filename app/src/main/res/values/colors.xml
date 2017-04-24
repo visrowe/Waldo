@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white_signin">#ffffff</color>
+    <color name="waldo_blue">#336ab2</color>
+    <color name="waldo_blue_dark">#2e5b96</color>
+    <color name="waldo_blue_tint">#336aa8</color>
+    <color name="waldo_blue_lite">#337ebc</color>
+    <color name="waldo_white">#ffffff</color>
+    <color name="waldo_black">#000000</color>
+    <color name="waldo_grey">#325584</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

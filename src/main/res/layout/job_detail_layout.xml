@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ara.walli.JobDetail"
+    android:orientation="vertical"
+
+
+    >
+
+    <TextView
+        android:id="@+id/d_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Employer Name:"
+        android:gravity="center_vertical"
+        android:textSize="18dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:textStyle="bold"
+
+        />
+
+    <TextView
+        android:id="@+id/d_jname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Job Name:"
+        android:gravity="center_vertical"
+        android:textSize="18dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:textStyle="bold"
+
+        />
+    <TextView
+        android:id="@+id/d_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Job Description:"
+        android:gravity="center_vertical"
+        android:textSize="18dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:textStyle="bold"
+
+        />
+    <TextView
+        android:id="@+id/d_jpay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Job Payment:"
+        android:gravity="center_vertical"
+        android:textSize="18dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:textStyle="bold"
+
+        />
+
+    <TextView
+        android:id="@+id/d_jlocation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Job Location:"
+        android:gravity="center_vertical"
+        android:textSize="18dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:textStyle="bold"
+
+        />
+
+    <Button
+        android:id="@+id/abtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Accept Job" />
+
+</LinearLayout>
